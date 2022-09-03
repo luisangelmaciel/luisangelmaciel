@@ -12,19 +12,36 @@ Profesionalmente me dedique al diseño de material promocional. Posteriormente e
 
 Emprendí una revista. Un concurso Drag Queen online, que posteriormente tuvo concursos presenciales y una agencia de viajes para hombres gay (próxima a cumplir 10 años). 
 
+### Connect with me:
 
-## 🔧 Technologies
+[<img align="left" alt="nalabdou.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]
+[<img align="left" alt="nalabdou | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]
+[<img align="left" alt="nalabdou | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
+[<img align="left" alt="nalabdou | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />]
+[<img align="left" alt="nalabdou | email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />]
+[<img align="left" alt="nalabdou | stakoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />]
+
+
+### Lenguages & tools:
+
+
+<img style="margin-left: 15px" align="left" alt="jquery" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />
+
+<img style="margin-left: 15px" align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
+
+<img  style="margin-left: 15px" align="left" alt="android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
+
+<img style="margin-left: 15px" align="left" alt="chrome" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome/chrome.png" />
 
 ![HTML5](https://img.icons8.com/color/30/html-5.png)
 ![CSS3](https://img.icons8.com/color/30/css3.png)
 ![JavaScript](https://img.icons8.com/color/30/javascript.png)
 ![NodeJS](https://img.icons8.com/color/30/nodejs.png)
-![SASS](https://img.icons8.com/color/30/sass.png)
 ![NPM](https://img.icons8.com/color/30/npm.png)
 ![Github](https://img.icons8.com/material-outlined/30/github.png)
 ![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
 ![Windows](https://img.icons8.com/color/30/windows-10.png)
-<img src='https://luisangelmaciel.github.io/luisangelmaciel/img/corel-draw-2017-icon-logo.png' alt='CorelDraw' height='26'>
+<img src='https://img1.freepng.es/20180319/gre/kisspng-coreldraw-logo-cdr-adobe-illustrator-icon-free-corel-draw-5ab07b35777ff3.4746066215215153174895.jpg' alt='CorelDraw' height='26'>
 
 <!--
 **luisangelmaciel/luisangelmaciel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -63,7 +80,7 @@ Here are some ideas to get you started:
 ![Page Visits](https://komarev.com/ghpvc/?username=luisangelmaciel&color=blue)
 
 
-[<img src='https://raw.githubusercontent.com/luisangelmaciel/luisangelmaciel/main/logos/cgt-logo.svg' alt='logo' height='40'>](https://www.xiiber.com)
+[<img src='https://www.xiiber.com/favicon.svg' alt='logo' height='40'>](https://www.xiiber.com)
 
 
 <details>
