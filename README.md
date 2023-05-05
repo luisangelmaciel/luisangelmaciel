@@ -12,14 +12,7 @@ Profesionalmente me dedique al diseño de material promocional. Posteriormente e
 
 Emprendí una revista. Un concurso Drag Queen online, que posteriormente tuvo concursos presenciales y una agencia de viajes para hombres gay (próxima a cumplir 10 años). 
 
-### Connect with me:
 
-[<img align="left" alt="nalabdou.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]
-[<img align="left" alt="nalabdou | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]
-[<img align="left" alt="nalabdou | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
-[<img align="left" alt="nalabdou | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />]
-[<img align="left" alt="nalabdou | email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />]
-[<img align="left" alt="nalabdou | stakoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />]
 
 
 ### Lenguages & tools:
